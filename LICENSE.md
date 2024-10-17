@@ -1,8 +1,3 @@
----
-lang: en
-title-meta: Unlicense
----
-
 # Unlicense
 
 This is free and unencumbered software released into the public domain.
