@@ -1,9 +1,9 @@
 ---
 lang: en
-title-meta: Contribution Guidelines
+title: Contribution Guidelines
 ---
 
-# Welcome :wave:
+## Welcome :wave:
 
 If you'd like to contribute, please open a PR. Be sure to explain what your
 proposed changes do. If you're unsure about something, or don't know how to make
