@@ -1,9 +1,7 @@
 ---
 lang: en
-title-meta: Security Policy
+title: Security Policy
 ---
-
-# Security Policy
 
 This is our [security policy].
 
